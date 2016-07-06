@@ -1,3 +1,4 @@
 Text is in this file.
 New text has been added to this file.
+Here is some more text.
 It has been modified again.
