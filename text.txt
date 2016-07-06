@@ -1,2 +1,1 @@
 Text is in this file.
-Here is a new line of text.
